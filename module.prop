@@ -1,0 +1,8 @@
+id=RedmiGoKeylayoutPatcher
+name=Redmi Go Keylayout Patcher
+version=3.0
+versionCode=3000
+author=ThomasV (BANGLADESH)
+description=This Module Will Add Keylayout file to the system, systemlessly.
+minMagisk=1500
+builddate=2020/05/26 11:00 GMT+6
